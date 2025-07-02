@@ -5,7 +5,7 @@
 
 A simple and clean note-taking application built with **React**, **TypeScript**, and **Tailwind CSS**.
 
-![Note App Screenshot](./Note-App.png)
+![Note App Screenshot](./note-app.png)
 
 ---
 
